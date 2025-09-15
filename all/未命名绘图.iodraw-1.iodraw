@@ -132,19 +132,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-27" value="单项式变换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="566" y="287" width="120" height="60" as="geometry" />
+          <mxGeometry x="496" y="237" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-28" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="506.54" y="256.5" width="19.46" height="132" as="geometry" />
+          <mxGeometry x="436.54" y="206.5" width="19.46" height="132" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="240" width="90" height="80" as="geometry" />
+          <mxGeometry x="330" y="190" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-30" value="生成矩阵G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="250" width="70" height="20" as="geometry" />
+          <mxGeometry x="340" y="200" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-31" value="单项式变换序列μ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="404" y="280" width="80" height="30" as="geometry" />
+          <mxGeometry x="334" y="230" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
