@@ -8,11 +8,11 @@
           <mxGeometry x="189" y="67" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-3" value="AXI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="199" y="127" width="60" height="30" as="geometry" />
+          <mxGeometry x="219" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.05;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-3">
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.905;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="n68N3JQmnse_PI1S8Sl1-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="310" as="sourcePoint" />
+            <mxPoint x="203" y="127" as="sourcePoint" />
             <mxPoint x="200" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
