@@ -155,6 +155,12 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-34" value="RREF(μ(G))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="355" y="317.5" width="110" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-36" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="300" as="sourcePoint" />
+            <mxPoint x="270" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
