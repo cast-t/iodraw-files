@@ -207,10 +207,10 @@
           <mxGeometry x="1160" y="480" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-47" value="比较器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="480" width="60" height="120" as="geometry" />
+          <mxGeometry x="1240" y="550" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-48" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="610" width="60" height="50" as="geometry" />
+          <mxGeometry x="990" y="550" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-44" target="n68N3JQmnse_PI1S8Sl1-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
