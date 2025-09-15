@@ -371,6 +371,9 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-102" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="356" y="588" width="455" height="245" as="geometry" />
         </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-103" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-102">
+          <mxGeometry x="94" y="66" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
