@@ -138,7 +138,10 @@
           <mxGeometry x="430.54" y="261.5" width="19.46" height="132" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="284" y="232" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-30" value="生成矩阵G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="190" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
