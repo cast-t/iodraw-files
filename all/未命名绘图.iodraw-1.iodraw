@@ -19,7 +19,7 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-4" value="生成矩阵G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-5" value="多项式变换μ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-5" value="单项式变换序列μ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="134" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-6" value="蒙蔽变换(blinding)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
