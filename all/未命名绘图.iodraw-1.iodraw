@@ -327,13 +327,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-79" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="350" width="120" height="70" as="geometry" />
+          <mxGeometry x="340" y="373" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-79">
           <mxGeometry width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="n68N3JQmnse_PI1S8Sl1-79" source="n68N3JQmnse_PI1S8Sl1-33" target="n68N3JQmnse_PI1S8Sl1-34">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-33" value="蒙蔽变换(blinding)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-79">
           <mxGeometry x="5" y="5" width="110" height="30" as="geometry" />
@@ -342,7 +339,7 @@
           <mxGeometry x="5" y="37.5" width="110" height="25" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-80" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="252" width="90" height="80" as="geometry" />
+          <mxGeometry x="370" y="277" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-80">
           <mxGeometry width="90" height="80" as="geometry" />
