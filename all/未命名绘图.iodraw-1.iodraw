@@ -368,15 +368,6 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-24" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ff3333&quot;&gt;RREF(行约化阶梯型)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="64" y="320" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-102" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="356" y="588" width="455" height="245" as="geometry" />
-        </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-103" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=44;dy=38;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-102">
-          <mxGeometry x="94" y="66" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-104" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;size=0.548236294092648;" vertex="1" parent="1">
-          <mxGeometry x="102" y="621" width="197" height="181" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
