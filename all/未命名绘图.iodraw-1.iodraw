@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="idLZCtePvNxjaTZ4VYw4">
-    <mxGraphModel dx="431" dy="287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="625" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,7 +192,7 @@
           <mxGeometry x="970" y="310" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-42" value="乘法器+累加器+模逆查找表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="270" width="50" height="130" as="geometry" />
+          <mxGeometry x="1040" y="310" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-43" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="282" width="70" height="110" as="geometry" />
@@ -254,7 +254,7 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1020" y="420" as="sourcePoint" />
-            <mxPoint x="1070" y="370" as="targetPoint" />
+            <mxPoint x="970" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
