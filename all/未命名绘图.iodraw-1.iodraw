@@ -19,8 +19,8 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-4" value="生成矩阵G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-5" value="多项式变换μ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
