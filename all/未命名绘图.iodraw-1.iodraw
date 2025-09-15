@@ -204,10 +204,10 @@
           <mxGeometry x="1080" y="480" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-46" value="双调排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="480" width="60" height="120" as="geometry" />
+          <mxGeometry x="1160" y="480" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-47" value="比较器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-48" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="480" width="60" height="120" as="geometry" />
@@ -229,7 +229,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-45">
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-45" target="n68N3JQmnse_PI1S8Sl1-46">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="460" as="sourcePoint" />
             <mxPoint x="1080" y="410" as="targetPoint" />
