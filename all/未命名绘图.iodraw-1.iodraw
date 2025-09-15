@@ -186,7 +186,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-40" value="零检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="260" width="40" height="190" as="geometry" />
+          <mxGeometry x="910" y="287" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-41" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="300" width="70" height="110" as="geometry" />
@@ -196,6 +196,9 @@
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-43" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="282" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
