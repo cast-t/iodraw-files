@@ -201,10 +201,10 @@
           <mxGeometry x="990" y="480" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-45" value="分类器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="480" width="60" height="120" as="geometry" />
+          <mxGeometry x="1080" y="480" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-46" value="双调排序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1175" y="480" width="75" height="120" as="geometry" />
+          <mxGeometry x="1175" y="480" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-47" value="比较器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="500" width="120" height="60" as="geometry" />
