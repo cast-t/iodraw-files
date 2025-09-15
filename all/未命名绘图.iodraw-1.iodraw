@@ -147,10 +147,13 @@
           <mxGeometry x="334" y="215" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="340" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-33" value="蒙蔽变换(blinding)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="345" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="376" y="415" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
