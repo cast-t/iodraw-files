@@ -192,7 +192,7 @@
           <mxGeometry x="970" y="300" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-42" value="乘法器+累加器+模逆查找表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="297" width="120" height="60" as="geometry" />
+          <mxGeometry x="1100" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
