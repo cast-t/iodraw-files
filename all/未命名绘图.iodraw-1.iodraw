@@ -249,10 +249,10 @@
           <mxGeometry x="680" y="192" width="40" height="98" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-42" value="乘法器+累加器+模逆查找表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="192" width="50" height="120" as="geometry" />
+          <mxGeometry x="780" y="192" width="50" height="98" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-43" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="192" width="40" height="120" as="geometry" />
+          <mxGeometry x="850" y="192" width="40" height="98" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-44" value="直方图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="375" width="50" height="60" as="geometry" />
