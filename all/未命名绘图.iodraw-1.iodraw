@@ -233,7 +233,7 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-52" value="数据寄存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="480" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" target="n68N3JQmnse_PI1S8Sl1-52">
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.017;entryY=0.547;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="n68N3JQmnse_PI1S8Sl1-52">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="507.28" as="sourcePoint" />
             <mxPoint x="1240" y="502.72999999999996" as="targetPoint" />
@@ -284,7 +284,7 @@
             <mxPoint x="980" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-46" target="n68N3JQmnse_PI1S8Sl1-47">
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-46" target="n68N3JQmnse_PI1S8Sl1-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1190" y="570" as="sourcePoint" />
             <mxPoint x="1240" y="570" as="targetPoint" />
