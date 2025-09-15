@@ -117,8 +117,8 @@
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414" y="130" as="sourcePoint" />
-            <mxPoint x="574" y="195" as="targetPoint" />
+            <mxPoint x="380" y="82.5" as="sourcePoint" />
+            <mxPoint x="540" y="147.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -132,19 +132,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-27" value="单项式变换" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="292" width="120" height="60" as="geometry" />
+          <mxGeometry x="566" y="287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-28" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="430.54" y="261.5" width="19.46" height="132" as="geometry" />
+          <mxGeometry x="506.54" y="256.5" width="19.46" height="132" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="324" y="245" width="90" height="80" as="geometry" />
+          <mxGeometry x="400" y="240" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-30" value="生成矩阵G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="255" width="70" height="20" as="geometry" />
+          <mxGeometry x="410" y="250" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-31" value="单项式变换序列μ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="285" width="80" height="30" as="geometry" />
+          <mxGeometry x="404" y="280" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
