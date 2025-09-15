@@ -350,6 +350,9 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-31" value="单项式变换序列μ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-80">
           <mxGeometry x="4" y="36" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-82" value="AXI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
