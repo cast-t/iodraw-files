@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-73" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="69" y="300" width="230" height="200" as="geometry" />
+          <mxGeometry x="69" y="300" width="250" height="200" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-73">
           <mxGeometry y="10" width="230" height="190" as="geometry" />
@@ -168,7 +168,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-24" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ff3333&quot;&gt;RREF(行约化阶梯型)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="n68N3JQmnse_PI1S8Sl1-73">
-          <mxGeometry x="125" y="10" width="105" height="30" as="geometry" />
+          <mxGeometry x="80" y="10" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-74" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="90" y="170" width="180" height="90" as="geometry" />
