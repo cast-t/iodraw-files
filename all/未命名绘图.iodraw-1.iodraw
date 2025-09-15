@@ -200,9 +200,6 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-41" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="297" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-42" target="n68N3JQmnse_PI1S8Sl1-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-42" value="乘法器+累加器+模逆查找表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="297" width="50" height="120" as="geometry" />
         </mxCell>
@@ -294,6 +291,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1030" y="400" as="sourcePoint" />
             <mxPoint x="1080" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-69" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="400" as="sourcePoint" />
+            <mxPoint x="990" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
