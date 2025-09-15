@@ -112,8 +112,8 @@
             <mxPoint x="380" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-24" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="370" width="60" height="30" as="geometry" />
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-24" value="&lt;font color=&quot;#ff3333&quot;&gt;RREF&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
