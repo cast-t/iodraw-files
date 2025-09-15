@@ -11,10 +11,10 @@
           <mxGeometry x="40" y="170" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-1" value="CPU" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="169" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-3" value="AXI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="100" width="60" height="30" as="geometry" />
+          <mxGeometry x="199" y="127" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-4" value="生成矩阵G" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="180" width="70" height="30" as="geometry" />
