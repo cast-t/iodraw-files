@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="idLZCtePvNxjaTZ4VYw4">
-    <mxGraphModel dx="549" dy="365" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="928" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -367,6 +367,9 @@
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-24" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ff3333&quot;&gt;RREF(行约化阶梯型)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="64" y="320" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-102" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="277" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
