@@ -189,7 +189,7 @@
           <mxGeometry x="910" y="287" width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-41" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="300" width="50" height="110" as="geometry" />
+          <mxGeometry x="930" y="480" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-42" value="乘法器+累加器+模逆查找表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="270" width="50" height="130" as="geometry" />
@@ -198,7 +198,7 @@
           <mxGeometry x="1250" y="282" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-44" value="直方图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="480" width="60" height="60" as="geometry" />
+          <mxGeometry x="1010" y="480" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-45" value="分类器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="480" width="60" height="120" as="geometry" />
@@ -210,7 +210,7 @@
           <mxGeometry x="1240" y="550" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-48" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="550" width="60" height="50" as="geometry" />
+          <mxGeometry x="1010" y="550" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.999;exitY=0.661;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="n68N3JQmnse_PI1S8Sl1-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
