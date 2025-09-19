@@ -1,0 +1,76 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="nrh2thBy-zbA2xrNY6IE">
+    <mxGraphModel dx="750" dy="488" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kiymXbB60jJOfNieJfvQ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329" y="370" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="519" y="130" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="169" y="130" width="120" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-2" value="STM32F103RFT6" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="339" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-3" value="PC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="339" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-4" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="kiymXbB60jJOfNieJfvQ-2" target="kiymXbB60jJOfNieJfvQ-3" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="539" y="370" as="sourcePoint" />
+            <mxPoint x="639" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-5" value="ST-LINK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="319" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-6" value="USB to TTL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="429" y="220" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-7" value="复位电路" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="189" y="160" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-8" value="充电电路（TP6050）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="189" y="270" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-9" value="供电电路（TPS63020）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="189" y="380" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-10" value="TFT LCD接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="539" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-11" value="磁力计（QMC5883）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="359" y="390" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-12" value="SD卡座子" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="539" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-13" value="耳机+功放（SC8002）+喇叭" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="509" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-17" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kiymXbB60jJOfNieJfvQ-2" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="469" y="330" as="sourcePoint" />
+            <mxPoint x="519" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-18" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.213;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="kiymXbB60jJOfNieJfvQ-2" target="kiymXbB60jJOfNieJfvQ-16" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="419" y="310" as="sourcePoint" />
+            <mxPoint x="519" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kiymXbB60jJOfNieJfvQ-19" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.017;exitY=0.469;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="kiymXbB60jJOfNieJfvQ-2" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="289" y="289.7299999999999" as="sourcePoint" />
+            <mxPoint x="336.28" y="290.27" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
