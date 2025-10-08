@@ -185,7 +185,7 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-45" value="双调排序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="375" width="50" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-46" value="双调排序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-46" value="多路归并排序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="375" width="30" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-48" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
