@@ -182,7 +182,7 @@
         <mxCell id="n68N3JQmnse_PI1S8Sl1-44" value="直方图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="375" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="n68N3JQmnse_PI1S8Sl1-45" value="分类器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="n68N3JQmnse_PI1S8Sl1-45" value="双调排序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="375" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="n68N3JQmnse_PI1S8Sl1-46" value="双调排序" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
