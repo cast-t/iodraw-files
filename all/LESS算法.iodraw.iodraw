@@ -44,6 +44,34 @@
         <mxCell id="JwvwOBw8CicLkyyCqQsn-8" value="消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-9" value="公钥" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-10" value="私钥" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JwvwOBw8CicLkyyCqQsn-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="280" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="280" />
+              <mxPoint x="150" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-12" value="可扩展输出函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JwvwOBw8CicLkyyCqQsn-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="280" as="sourcePoint" />
+            <mxPoint x="240" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
