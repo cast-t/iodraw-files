@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JwvwOBw8CicLkyyCqQsn-79" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 24px;&quot;&gt;签名&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="380" width="120" height="30" as="geometry" />
+          <mxGeometry x="650" y="235" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JwvwOBw8CicLkyyCqQsn-80" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 24px;&quot;&gt;验签&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="540" width="120" height="30" as="geometry" />
