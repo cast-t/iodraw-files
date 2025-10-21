@@ -20,8 +20,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwvwOBw8CicLkyyCqQsn-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="320" width="60" height="30" as="geometry" />
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-4" value="可扩展输出函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
