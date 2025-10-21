@@ -174,7 +174,7 @@
         <mxCell id="JwvwOBw8CicLkyyCqQsn-56" value="消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1143" y="530" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JwvwOBw8CicLkyyCqQsn-57" value="临时私钥" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-57" value="response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="687.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwvwOBw8CicLkyyCqQsn-58" value="可扩展输出函数" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
