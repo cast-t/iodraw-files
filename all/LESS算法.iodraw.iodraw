@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JwvwOBw8CicLkyyCqQsn-56" value="消息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="480" width="350" height="40" as="geometry" />
+          <mxGeometry x="720" y="480" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwvwOBw8CicLkyyCqQsn-57" value="response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="657.5" width="110" height="40" as="geometry" />
@@ -137,7 +137,7 @@
         <mxCell id="JwvwOBw8CicLkyyCqQsn-62" value="哈希函数" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="605" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JwvwOBw8CicLkyyCqQsn-63" value="公钥" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JwvwOBw8CicLkyyCqQsn-63" value="response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="582.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JwvwOBw8CicLkyyCqQsn-64" value="commit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
