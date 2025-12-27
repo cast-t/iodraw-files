@@ -137,10 +137,13 @@
           <mxGeometry x="290" y="590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-78" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="130" y="250" width="100" height="150" as="geometry" />
+          <mxGeometry x="130" y="250" width="100" height="160" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-65" value="" style="group" vertex="1" connectable="0" parent="DydZEzndz8fPK5e-Ad6d-78">
-          <mxGeometry width="100" height="150" as="geometry" />
+          <mxGeometry width="100" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-65">
+          <mxGeometry x="-50" y="-70" width="130" height="230" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-65">
           <mxGeometry x="-10" y="-30" width="80" height="180" as="geometry" />
@@ -243,9 +246,6 @@
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-93" value="resp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-88">
           <mxGeometry width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-95" value="Processor Core" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="60" height="30" as="geometry" />
