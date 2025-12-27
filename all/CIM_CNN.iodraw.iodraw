@@ -92,7 +92,7 @@
           <mxGeometry x="10" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-50" value="Input Exponent MEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="550" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="625" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
