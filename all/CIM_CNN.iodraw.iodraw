@@ -350,8 +350,8 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-115" value="Instruction Decoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-122">
           <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-123" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="520" y="530" width="60" height="30" as="geometry" />
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-123" value="Controler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
