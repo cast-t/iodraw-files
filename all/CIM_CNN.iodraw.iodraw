@@ -112,16 +112,16 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-48" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-55">
           <mxGeometry x="54.34782608695652" width="141.30434782608697" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="600" as="sourcePoint" />
-            <mxPoint x="99.99999999999989" y="620" as="targetPoint" />
+            <mxPoint x="100" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="214.8" y="600" as="sourcePoint" />
-            <mxPoint x="214.7999999999999" y="620" as="targetPoint" />
+            <mxPoint x="215" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-59" value="Ifmap MEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
