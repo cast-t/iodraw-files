@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-3" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="200" y="160" width="160" height="30" as="geometry" />
         </mxCell>
@@ -36,9 +39,6 @@
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-16" value="CIM Subarray" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-14">
           <mxGeometry x="30" y="3.75" width="100" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
