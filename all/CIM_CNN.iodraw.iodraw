@@ -166,12 +166,6 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-33" value="SIMD Core" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-37">
           <mxGeometry x="75" y="5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-115" value="Instruction Decoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="725" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-116" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="DydZEzndz8fPK5e-Ad6d-62">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="750" y="660" as="sourcePoint" />
@@ -345,7 +339,16 @@
           <mxGeometry x="370" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-121" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="560" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-122" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="410" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-114" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-122">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-115" value="Instruction Decoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-122">
+          <mxGeometry x="30" y="15" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
