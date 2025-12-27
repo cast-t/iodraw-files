@@ -370,8 +370,8 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-123" value="Controler" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-126">
           <mxGeometry x="200" y="245" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-128" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-128" value="CIM-CNN Acclerator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="210" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
