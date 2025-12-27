@@ -95,10 +95,7 @@
           <mxGeometry y="5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u6pPrMo-7oTjS1BtO9Za-61" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="210" y="585" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="u6pPrMo-7oTjS1BtO9Za-63" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="u6pPrMo-7oTjS1BtO9Za-61">
-          <mxGeometry x="11.25" y="10" width="17.5" height="20" as="geometry" />
+          <mxGeometry x="230" y="610" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u6pPrMo-7oTjS1BtO9Za-76" value="" style="group" vertex="1" connectable="0" parent="u6pPrMo-7oTjS1BtO9Za-61">
           <mxGeometry x="-30" y="-50" width="70" height="100" as="geometry" />
