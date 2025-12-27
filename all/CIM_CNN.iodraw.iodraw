@@ -34,15 +34,6 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-13" value="CIM Subarray" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-11">
           <mxGeometry x="30" y="3.75" width="100" height="22.5" as="geometry" />
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-14" value="" style="group" vertex="1" connectable="0" parent="DydZEzndz8fPK5e-Ad6d-21">
-          <mxGeometry x="10" y="120" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-14">
-          <mxGeometry width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-16" value="CIM Subarray" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-14">
-          <mxGeometry x="30" y="3.75" width="100" height="22.5" as="geometry" />
-        </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-21">
           <mxGeometry y="170" width="180" height="30" as="geometry" />
         </mxCell>
@@ -63,6 +54,15 @@
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="690" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="600" y="640" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-14">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-16" value="CIM Subarray" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-14">
+          <mxGeometry x="30" y="3.75" width="100" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
