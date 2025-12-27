@@ -103,7 +103,7 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-52">
           <mxGeometry width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-54" value="Input Exponent&lt;div&gt;MEM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-52">
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-54" value="Input Mantissa&lt;div&gt;MEM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-52">
           <mxGeometry y="4" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
