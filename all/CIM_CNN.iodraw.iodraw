@@ -82,24 +82,6 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-39" value="CIM Core" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="120" y="450" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-43">
-          <mxGeometry width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-41" value="IEMEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-43">
-          <mxGeometry width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-44" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="450" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-44">
-          <mxGeometry width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-46" value="IMMEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-44">
-          <mxGeometry width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="490" width="130" height="30" as="geometry" />
         </mxCell>
