@@ -155,10 +155,10 @@
           <mxGeometry x="235" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-106" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="100" height="60" as="geometry" />
+          <mxGeometry x="160" y="40" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-107" value="DRAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-108" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="750" y="340" width="275.9375" height="320" as="geometry" />
