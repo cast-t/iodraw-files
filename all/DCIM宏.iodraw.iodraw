@@ -1800,6 +1800,9 @@
         <mxCell id="u6pPrMo-7oTjS1BtO9Za-517" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Accumulator &amp;lt;63&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="u6pPrMo-7oTjS1BtO9Za-519">
           <mxGeometry x="30" y="60" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u6pPrMo-7oTjS1BtO9Za-520" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
