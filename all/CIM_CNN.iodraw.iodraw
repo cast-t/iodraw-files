@@ -47,7 +47,7 @@
           <mxGeometry x="195" y="320" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CIM Micro&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="230" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
