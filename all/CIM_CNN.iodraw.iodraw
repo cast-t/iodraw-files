@@ -242,7 +242,7 @@
           <mxGeometry x="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-109" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="570" width="270" height="200" as="geometry" />
+          <mxGeometry x="420" y="340" width="270" height="200" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-109">
           <mxGeometry width="270" height="160" as="geometry" />
@@ -288,9 +288,6 @@
             <mxPoint x="194.8" y="140" as="sourcePoint" />
             <mxPoint x="195" y="170" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="DydZEzndz8fPK5e-Ad6d-109" source="DydZEzndz8fPK5e-Ad6d-59" target="DydZEzndz8fPK5e-Ad6d-58">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-59" value="Ifmap MEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DydZEzndz8fPK5e-Ad6d-109">
           <mxGeometry x="100" y="70" width="80" height="30" as="geometry" />
