@@ -1777,7 +1777,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u6pPrMo-7oTjS1BtO9Za-513" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1040" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="1040" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u6pPrMo-7oTjS1BtO9Za-514" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Accumulator &amp;lt;0&amp;gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="950" width="60" height="30" as="geometry" />
