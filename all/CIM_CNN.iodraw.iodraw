@@ -86,7 +86,7 @@
           <mxGeometry x="40" y="610" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-48" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="430" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="430" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-51" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="40" y="560" width="110" height="40" as="geometry" />
