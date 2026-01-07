@@ -23,12 +23,12 @@
           <mxGeometry x="110" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h18hjzlAYZq97idD-1xP-7" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="287.5" width="25" height="25" as="geometry" />
+          <mxGeometry x="207.5" y="287.5" width="22.5" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="h18hjzlAYZq97idD-1xP-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
-            <mxPoint x="400" y="310" as="targetPoint" />
+            <mxPoint x="299.5" y="285" as="sourcePoint" />
+            <mxPoint x="299.5" y="315" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
