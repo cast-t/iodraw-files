@@ -44,13 +44,13 @@
           <mxGeometry y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-55" value="" style="group" parent="DydZEzndz8fPK5e-Ad6d-109" vertex="1" connectable="0">
-          <mxGeometry x="223" y="183" width="47" height="51" as="geometry" />
+          <mxGeometry x="209" y="183" width="61" height="51" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="DydZEzndz8fPK5e-Ad6d-55" vertex="1">
-          <mxGeometry width="47" height="47.6" as="geometry" />
+          <mxGeometry width="61" height="47.6" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-48" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-55" vertex="1">
-          <mxGeometry x="-10" y="12" width="53" height="22.8" as="geometry" />
+          <mxGeometry x="-3.8887234042553196" y="12.4" width="68.7872340425532" height="22.8" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-56" value="" style="endArrow=classic;html=1;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-109" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
