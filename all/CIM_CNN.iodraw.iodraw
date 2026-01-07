@@ -1202,11 +1202,14 @@
             <mxPoint x="640" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qqTjSUxA0f4ge1Cc4pbL-901" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1200" width="40" height="40" as="geometry" />
+        <mxCell id="qqTjSUxA0f4ge1Cc4pbL-903" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="1200" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qqTjSUxA0f4ge1Cc4pbL-902" value="&amp;lt;&amp;lt;4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1205" width="60" height="30" as="geometry" />
+        <mxCell id="qqTjSUxA0f4ge1Cc4pbL-901" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qqTjSUxA0f4ge1Cc4pbL-903">
+          <mxGeometry x="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qqTjSUxA0f4ge1Cc4pbL-902" value="&amp;lt;&amp;lt;4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qqTjSUxA0f4ge1Cc4pbL-903">
+          <mxGeometry y="5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
