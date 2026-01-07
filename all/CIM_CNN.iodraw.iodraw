@@ -395,13 +395,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xrFhQubhnN6Racze8_VN-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="450" y="510" width="270" height="30" as="geometry" />
+          <mxGeometry x="450" y="510" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xrFhQubhnN6Racze8_VN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="xrFhQubhnN6Racze8_VN-4">
-          <mxGeometry width="270.00000000000006" height="30" as="geometry" />
+          <mxGeometry width="270.00000000000006" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xrFhQubhnN6Racze8_VN-6" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xrFhQubhnN6Racze8_VN-4">
-          <mxGeometry x="58.69565217391305" width="152.60869565217394" height="30" as="geometry" />
+          <mxGeometry x="58.69565217391305" width="152.60869565217394" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xrFhQubhnN6Racze8_VN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DydZEzndz8fPK5e-Ad6d-48" target="DydZEzndz8fPK5e-Ad6d-121">
           <mxGeometry relative="1" as="geometry" />
