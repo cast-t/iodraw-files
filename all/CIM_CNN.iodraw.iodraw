@@ -1091,8 +1091,8 @@
             <mxPoint x="227.14" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qqTjSUxA0f4ge1Cc4pbL-733" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="680" width="60" height="30" as="geometry" />
+        <mxCell id="qqTjSUxA0f4ge1Cc4pbL-733" value="CIM subarray" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
