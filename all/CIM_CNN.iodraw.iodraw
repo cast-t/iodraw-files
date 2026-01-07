@@ -17,7 +17,7 @@
           <mxGeometry x="240" y="375" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-109" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="450" y="340" width="600" height="350" as="geometry" />
+          <mxGeometry x="451" y="350" width="600" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="DydZEzndz8fPK5e-Ad6d-109" vertex="1">
           <mxGeometry width="270" height="160" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="142" y="100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="DydZEzndz8fPK5e-Ad6d-52" vertex="1">
-          <mxGeometry width="110" height="40" as="geometry" />
+          <mxGeometry y="9" width="110" height="31" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-54" value="Input Mantissa&lt;div&gt;MEM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-52" vertex="1">
-          <mxGeometry y="4" width="110" height="30" as="geometry" />
+          <mxGeometry y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-55" value="" style="group" parent="DydZEzndz8fPK5e-Ad6d-109" vertex="1" connectable="0">
           <mxGeometry y="170" width="270" height="30" as="geometry" />
