@@ -386,7 +386,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-48" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-126" vertex="1">
-          <mxGeometry x="230.99951219512195" y="203.4" width="100.40536585365854" height="22.8" as="geometry" />
+          <mxGeometry x="227.99951219512195" y="188" width="100.40536585365854" height="22.8" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-128" value="CIM-CNN Accelerator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="310" width="120" height="30" as="geometry" />
