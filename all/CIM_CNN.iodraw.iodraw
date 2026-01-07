@@ -419,7 +419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xrFhQubhnN6Racze8_VN-19" value="CONV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="532" y="502.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="557" y="502.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xrFhQubhnN6Racze8_VN-20" value="FC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="582" y="502.5" width="60" height="30" as="geometry" />
