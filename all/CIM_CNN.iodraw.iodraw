@@ -588,7 +588,7 @@
           <mxGeometry x="10" y="130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qqTjSUxA0f4ge1Cc4pbL-667" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="70" y="390" width="140" height="129" as="geometry" />
+          <mxGeometry x="120" y="390" width="140" height="129" as="geometry" />
         </mxCell>
         <mxCell id="qqTjSUxA0f4ge1Cc4pbL-662" value="" style="group" vertex="1" connectable="0" parent="qqTjSUxA0f4ge1Cc4pbL-667">
           <mxGeometry width="130" height="129" as="geometry" />
