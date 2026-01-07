@@ -1269,7 +1269,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qqTjSUxA0f4ge1Cc4pbL-917" value="Accumulator&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;amp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; white-space: pre; font-size: 18px;&quot;&gt;Concatenation&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1220" width="60" height="30" as="geometry" />
+          <mxGeometry x="870" y="1220" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
