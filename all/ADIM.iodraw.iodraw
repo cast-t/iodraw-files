@@ -10,8 +10,8 @@
             <mxPoint x="280" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h18hjzlAYZq97idD-1xP-2" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="170" width="200" height="200" as="geometry" />
+        <mxCell id="h18hjzlAYZq97idD-1xP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
