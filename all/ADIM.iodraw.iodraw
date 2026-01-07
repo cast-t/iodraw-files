@@ -566,7 +566,10 @@
           <mxGeometry x="164" y="200" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CGvfwe2hxxeuxf8Q8HfC-216" value="输入特征图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="356" y="129" width="84" height="30" as="geometry" />
+          <mxGeometry x="340" y="131" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CGvfwe2hxxeuxf8Q8HfC-217" value="输入特征图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="139" width="84" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
