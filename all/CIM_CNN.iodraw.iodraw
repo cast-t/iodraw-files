@@ -373,6 +373,12 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-48" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-126" vertex="1">
           <mxGeometry x="162" y="200" width="111.26" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xrFhQubhnN6Racze8_VN-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="DydZEzndz8fPK5e-Ad6d-126">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="262" as="sourcePoint" />
+            <mxPoint x="115" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-128" value="CIM-CNN Accelerator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="310" width="120" height="30" as="geometry" />
         </mxCell>
@@ -410,12 +416,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="582" y="554" as="sourcePoint" />
             <mxPoint x="632" y="504" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xrFhQubhnN6Racze8_VN-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="539" y="505" as="sourcePoint" />
-            <mxPoint x="589" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
