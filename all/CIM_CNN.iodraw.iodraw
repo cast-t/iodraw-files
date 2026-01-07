@@ -49,6 +49,9 @@
         <mxCell id="DydZEzndz8fPK5e-Ad6d-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="DydZEzndz8fPK5e-Ad6d-55" vertex="1">
           <mxGeometry width="123" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="DydZEzndz8fPK5e-Ad6d-48" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-55" vertex="1">
+          <mxGeometry x="8" y="5" width="111.26" height="19" as="geometry" />
+        </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-56" value="" style="endArrow=classic;html=1;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-109" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="140" as="sourcePoint" />
@@ -327,12 +330,6 @@
             <mxPoint x="308" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-112" value="" style="endArrow=classic;html=1;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-126" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="125" as="sourcePoint" />
-            <mxPoint x="310" y="125" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-37" value="" style="group" parent="DydZEzndz8fPK5e-Ad6d-126" vertex="1" connectable="0">
           <mxGeometry x="310" y="290" width="270" height="40" as="geometry" />
         </mxCell>
@@ -369,9 +366,6 @@
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-61" value="Filter MEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-126" vertex="1">
           <mxGeometry x="120" y="57" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DydZEzndz8fPK5e-Ad6d-48" value="Pre-Alignment Unit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="DydZEzndz8fPK5e-Ad6d-126" vertex="1">
-          <mxGeometry x="162" y="200" width="111.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DydZEzndz8fPK5e-Ad6d-128" value="CIM-CNN Accelerator" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="310" width="120" height="30" as="geometry" />
