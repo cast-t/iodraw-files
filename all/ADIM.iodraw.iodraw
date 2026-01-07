@@ -271,7 +271,7 @@
         <mxCell id="h18hjzlAYZq97idD-1xP-68" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="h18hjzlAYZq97idD-1xP-65">
           <mxGeometry x="120" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h18hjzlAYZq97idD-1xP-70" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;w1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h18hjzlAYZq97idD-1xP-65">
+        <mxCell id="h18hjzlAYZq97idD-1xP-70" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;w2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h18hjzlAYZq97idD-1xP-65">
           <mxGeometry x="30" y="45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h18hjzlAYZq97idD-1xP-71" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="h18hjzlAYZq97idD-1xP-65">
@@ -478,7 +478,7 @@
         <mxCell id="h18hjzlAYZq97idD-1xP-133" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="h18hjzlAYZq97idD-1xP-130">
           <mxGeometry x="120" y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="h18hjzlAYZq97idD-1xP-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;w1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h18hjzlAYZq97idD-1xP-130">
+        <mxCell id="h18hjzlAYZq97idD-1xP-134" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;w2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="h18hjzlAYZq97idD-1xP-130">
           <mxGeometry x="30" y="45" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h18hjzlAYZq97idD-1xP-135" value="" style="shape=umlDestroy;whiteSpace=wrap;html=1;strokeWidth=3;targetShapes=umlLifeline;" vertex="1" parent="h18hjzlAYZq97idD-1xP-130">
