@@ -1346,16 +1346,6 @@
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-22" value="Data MEM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2119" y="716" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="FS3c8FwBdrH1HvV0kcCa-94">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1960" y="888" as="sourcePoint" />
-            <mxPoint x="2000" y="888" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1987" y="888" />
-              <mxPoint x="1987" y="969" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-109" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="2018" y="916" width="107" height="28" as="geometry" />
         </mxCell>
@@ -1455,6 +1445,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1972" y="767" as="sourcePoint" />
             <mxPoint x="2012" y="767" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FS3c8FwBdrH1HvV0kcCa-120" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2080" y="900" as="sourcePoint" />
+            <mxPoint x="2130" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
