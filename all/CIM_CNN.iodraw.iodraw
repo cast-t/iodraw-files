@@ -1738,7 +1738,7 @@
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-292" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2151" y="1044.17" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-293" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="FS3c8FwBdrH1HvV0kcCa-293" value="" style="group;fillColor=none;strokeColor=#FF0080;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1880" y="600" width="120.68965517241395" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-294" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="FS3c8FwBdrH1HvV0kcCa-293">
