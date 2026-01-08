@@ -1355,16 +1355,6 @@
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-23" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1765" y="781" width="198" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="FS3c8FwBdrH1HvV0kcCa-23" source="FS3c8FwBdrH1HvV0kcCa-94">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="198" y="152" as="sourcePoint" />
-            <mxPoint x="158" y="152" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="180" y="189" />
-              <mxPoint x="180" y="152" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="FS3c8FwBdrH1HvV0kcCa-23" target="FS3c8FwBdrH1HvV0kcCa-94">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="158" y="92" as="sourcePoint" />
