@@ -1684,15 +1684,6 @@
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-256" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2149.12" y="885.83" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-269" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2079.12" y="800" width="120.68965517241395" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-271" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="FS3c8FwBdrH1HvV0kcCa-269">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint as="sourcePoint" />
-            <mxPoint x="120.68965517241395" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
