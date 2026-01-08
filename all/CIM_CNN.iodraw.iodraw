@@ -1942,8 +1942,8 @@
             <mxPoint x="2040" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-345" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="760" width="10" height="320" as="geometry" />
+        <mxCell id="FS3c8FwBdrH1HvV0kcCa-345" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="720" width="10" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
