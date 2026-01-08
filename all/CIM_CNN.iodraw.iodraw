@@ -1943,7 +1943,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-345" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="2360" y="720" width="10" height="360" as="geometry" />
+          <mxGeometry x="2340" y="720" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-346" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;strokeWidth=3;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="2050" y="720" width="10" height="360" as="geometry" />
