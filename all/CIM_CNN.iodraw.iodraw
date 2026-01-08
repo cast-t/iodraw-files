@@ -1987,9 +1987,6 @@
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-375" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1829.12" y="1245.83" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-376" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1869.12" y="1245.83" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-378" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1751.12" y="1285.83" width="60" height="30" as="geometry" />
         </mxCell>
@@ -1999,9 +1996,6 @@
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-380" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1829.12" y="1285.83" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-381" value="9" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1869.12" y="1285.83" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-383" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1751.12" y="1325.83" width="60" height="30" as="geometry" />
         </mxCell>
@@ -2010,9 +2004,6 @@
         </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-385" value="5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1829.12" y="1325.83" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FS3c8FwBdrH1HvV0kcCa-386" value="0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1869.12" y="1325.83" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FS3c8FwBdrH1HvV0kcCa-398" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1759.12" y="1240" width="200.69" height="120" as="geometry" />
