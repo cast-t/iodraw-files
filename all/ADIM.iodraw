@@ -711,15 +711,15 @@
         </mxCell>
         <mxCell id="Mko2nhSMpfHZlRUZs0xh-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="980" y="450" as="sourcePoint" />
-            <mxPoint x="1020" y="410" as="targetPoint" />
+            <mxPoint x="973" y="470" as="sourcePoint" />
+            <mxPoint x="1013" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="980" y="410" />
+              <mxPoint x="973" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mko2nhSMpfHZlRUZs0xh-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Vref&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="963" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
