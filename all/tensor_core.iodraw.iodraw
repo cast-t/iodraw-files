@@ -531,8 +531,8 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-165" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1000" width="20" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-168" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="920" width="60" height="30" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-168" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Shifter&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="930" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
