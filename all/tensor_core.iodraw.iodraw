@@ -493,12 +493,12 @@
           <mxGeometry x="830" y="580" width="151.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-170" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1040" y="840" width="90" height="90" as="geometry" />
+          <mxGeometry x="1040" y="850" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-153" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-170">
           <mxGeometry width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-154" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Transposer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-170">
+        <mxCell id="FFju26YtzlcxLQIsbhMf-154" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Transposer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-170">
           <mxGeometry x="18" y="31.5" width="54" height="27" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-202" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -509,8 +509,8 @@
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-205" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1195" y="840" as="sourcePoint" />
-            <mxPoint x="1194.77" y="870" as="targetPoint" />
+            <mxPoint x="1195" y="880" as="sourcePoint" />
+            <mxPoint x="1194.77" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-228" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -616,7 +616,7 @@
           <mxGeometry x="970" y="980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-254" value="B Matrix &amp;amp; D Matrix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="1165" y="850" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-243" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1050" width="70" height="30" as="geometry" />
