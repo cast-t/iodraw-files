@@ -1402,7 +1402,7 @@
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-658" value="bias" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1645" y="1510" width="60" height="30" as="geometry" />
+          <mxGeometry x="1860" y="1510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-659" value="output" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1645" y="1645" width="60" height="30" as="geometry" />
@@ -1415,8 +1415,8 @@
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-661" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1674.67" y="1535" as="sourcePoint" />
-            <mxPoint x="1674.8300000000002" y="1575" as="targetPoint" />
+            <mxPoint x="1920" y="1560" as="sourcePoint" />
+            <mxPoint x="1920.16" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-662" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
