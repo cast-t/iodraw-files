@@ -1141,11 +1141,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-506" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="1190" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-507" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FFju26YtzlcxLQIsbhMf-508" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1610" y="1185" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-506" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-508">
+          <mxGeometry x="10" y="5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-507" value="c2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-508">
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
