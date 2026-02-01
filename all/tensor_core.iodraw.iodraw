@@ -771,9 +771,6 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-297" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-295">
           <mxGeometry y="5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-322" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-295">
-          <mxGeometry x="-60" y="-25" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-298" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1170" y="1200" width="60" height="40" as="geometry" />
         </mxCell>
@@ -845,6 +842,9 @@
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-321" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-319">
           <mxGeometry y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-322" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
