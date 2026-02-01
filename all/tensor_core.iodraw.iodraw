@@ -134,7 +134,7 @@
           <mxGeometry x="160" y="360" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-49" value="ReservationStation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="230" y="375" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
