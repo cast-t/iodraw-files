@@ -34,6 +34,15 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="30" width="180" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-11">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-13" value="A Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-11">
+          <mxGeometry x="10" y="5" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
