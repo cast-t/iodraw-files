@@ -859,13 +859,10 @@
           <mxGeometry x="1080" y="1240" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-294" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1080" y="1250" width="60" height="40" as="geometry" />
+          <mxGeometry x="1150" y="1170" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-292" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-294">
           <mxGeometry x="10" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-293" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-294">
-          <mxGeometry y="5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-295" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1130" y="1250" width="60" height="40" as="geometry" />
@@ -947,6 +944,9 @@
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-321" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-319">
           <mxGeometry y="5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-293" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
