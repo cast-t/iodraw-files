@@ -212,7 +212,7 @@
           <mxGeometry x="120" y="120" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Systolic Array&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="520" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="520" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
