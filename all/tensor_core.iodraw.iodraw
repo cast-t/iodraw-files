@@ -1421,7 +1421,7 @@
             <mxPoint x="145" y="65" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-664" value="propagate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-668">
+        <mxCell id="FFju26YtzlcxLQIsbhMf-664" value="propagate = 0" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-668">
           <mxGeometry x="105" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-666" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="FFju26YtzlcxLQIsbhMf-668">
