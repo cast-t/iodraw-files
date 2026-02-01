@@ -28,7 +28,7 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-7">
           <mxGeometry width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-9" value="C Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-7">
+        <mxCell id="FFju26YtzlcxLQIsbhMf-9" value="D Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-7">
           <mxGeometry x="10" y="5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
