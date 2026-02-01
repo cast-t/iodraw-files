@@ -753,11 +753,14 @@
             <mxPoint x="1564.8600000000001" y="1085" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-292" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1200" width="40" height="40" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-294" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1070" y="1200" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-293" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1205" width="60" height="30" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-292" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-294">
+          <mxGeometry x="10" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-293" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-294">
+          <mxGeometry y="5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
