@@ -1011,17 +1011,14 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-413" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-411">
           <mxGeometry y="20" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-415" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1355" y="1500" width="60" height="30" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-416" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1375" y="1510" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-416" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-415">
-          <mxGeometry x="15" width="30" height="30" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-417" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="1500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-417" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-415">
-          <mxGeometry width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-418" value="" style="group" vertex="1" connectable="0" parent="FFju26YtzlcxLQIsbhMf-415">
-          <mxGeometry x="50" width="10" height="30" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-418" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1410" y="1510" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-419" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-418">
           <mxGeometry width="10" height="30" as="geometry" />
