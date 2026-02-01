@@ -633,7 +633,7 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-253" value="A Matrix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="970" y="980" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-254" value="B Matrix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FFju26YtzlcxLQIsbhMf-254" value="B Matrix &amp;amp; D Matrix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1165" y="800" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
