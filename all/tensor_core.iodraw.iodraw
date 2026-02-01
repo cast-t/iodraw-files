@@ -657,6 +657,9 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-261" value="Tag Queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="970" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-262" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="850" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
