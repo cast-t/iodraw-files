@@ -918,15 +918,6 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-378" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-376">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-401" value="" style="group" vertex="1" connectable="0" parent="FFju26YtzlcxLQIsbhMf-376">
-          <mxGeometry width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-395" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-401">
-          <mxGeometry width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-398" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-401">
-          <mxGeometry y="20" width="10" height="10" as="geometry" />
-        </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-379" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1190" y="1360" width="60" height="40" as="geometry" />
         </mxCell>
@@ -981,8 +972,14 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-400" value="" style="triangle;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1510" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-402" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1137.5" y="1370" width="10" height="30" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-401" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1160" y="1450" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-395" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-401">
+          <mxGeometry width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-398" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-401">
+          <mxGeometry y="20" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
