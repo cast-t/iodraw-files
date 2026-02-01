@@ -1314,7 +1314,7 @@
           <mxGeometry x="135" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-638" value="weight" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1790" y="1510" width="60" height="30" as="geometry" />
+          <mxGeometry x="1910" y="1530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-639" value="activation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1705" y="1605" width="60" height="30" as="geometry" />
