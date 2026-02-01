@@ -723,7 +723,7 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-279" value="Systolic Array" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1535" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-280" value="a00" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="FFju26YtzlcxLQIsbhMf-280" value="b00" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1515" y="987.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-281" value="a01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
