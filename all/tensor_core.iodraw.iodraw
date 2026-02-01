@@ -1011,7 +1011,7 @@
         <mxCell id="FFju26YtzlcxLQIsbhMf-417" value="Tile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1375" y="1450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-424" value="" style="group;fillColor=default;" vertex="1" connectable="0" parent="1">
+        <mxCell id="FFju26YtzlcxLQIsbhMf-424" value="" style="group;fillColor=default;strokeColor=default;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1290" y="1485" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-425" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-424">
