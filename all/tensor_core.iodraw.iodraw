@@ -685,7 +685,19 @@
           <mxGeometry x="1385" y="1020" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-270" value="Transposer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1395" y="1030" width="60" height="30" as="geometry" />
+          <mxGeometry x="1390" y="1030" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-271" value="a00" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-272" value="a01" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-273" value="a10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="960" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FFju26YtzlcxLQIsbhMf-274" value="a11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="960" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
