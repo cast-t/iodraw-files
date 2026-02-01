@@ -71,37 +71,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="40" y="320" width="110" height="200" as="geometry" />
+          <mxGeometry x="40" y="320" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-19">
-          <mxGeometry y="-10" width="100" height="210" as="geometry" />
+          <mxGeometry y="-10" width="109.09090909090908" height="210" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-19">
-          <mxGeometry x="10" y="30" width="80" height="40" as="geometry" />
+          <mxGeometry x="10.909090909090908" y="30" width="87.27272727272727" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-21" value="A Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-19">
-          <mxGeometry x="20" y="35" width="60" height="30" as="geometry" />
+          <mxGeometry x="21.818181818181817" y="35" width="65.45454545454545" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-22" value="" style="group" vertex="1" connectable="0" parent="FFju26YtzlcxLQIsbhMf-19">
-          <mxGeometry x="10" y="90" width="80" height="40" as="geometry" />
+          <mxGeometry x="10.909090909090908" y="90" width="87.27272727272727" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-22">
-          <mxGeometry width="80" height="40" as="geometry" />
+          <mxGeometry width="87.27272727272727" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-24" value="B Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-22">
-          <mxGeometry x="10" y="5" width="60" height="30" as="geometry" />
+          <mxGeometry x="10.909090909090908" y="5" width="65.45454545454545" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-25" value="" style="group" vertex="1" connectable="0" parent="FFju26YtzlcxLQIsbhMf-19">
-          <mxGeometry x="10" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="10.909090909090908" y="150" width="87.27272727272727" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-25">
-          <mxGeometry width="80" height="40" as="geometry" />
+          <mxGeometry width="87.27272727272727" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FFju26YtzlcxLQIsbhMf-27" value="D Buffer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-25">
-          <mxGeometry x="10" y="5" width="60" height="30" as="geometry" />
+          <mxGeometry x="10.909090909090908" y="5" width="65.45454545454545" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FFju26YtzlcxLQIsbhMf-38" value="Scratchpad" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-19">
-          <mxGeometry x="20" y="-10" width="60" height="30" as="geometry" />
+        <mxCell id="FFju26YtzlcxLQIsbhMf-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Scratchpad&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="FFju26YtzlcxLQIsbhMf-19">
+          <mxGeometry x="21.818181818181817" y="-10" width="65.45454545454545" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
