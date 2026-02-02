@@ -1608,7 +1608,7 @@
           <mxGeometry x="1240" y="160" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="veIJNiB20tHvsdn6mAFH-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="160" width="40" height="120" as="geometry" />
+          <mxGeometry x="1300" y="160" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="veIJNiB20tHvsdn6mAFH-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="60" width="200" height="40" as="geometry" />
@@ -1640,7 +1640,7 @@
         <mxCell id="veIJNiB20tHvsdn6mAFH-11" value="ld_queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1160" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="veIJNiB20tHvsdn6mAFH-12" value="ld_queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="veIJNiB20tHvsdn6mAFH-12" value="st_queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1300" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
