@@ -1634,7 +1634,10 @@
         <mxCell id="veIJNiB20tHvsdn6mAFH-9" value="allocate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1230" y="65" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="veIJNiB20tHvsdn6mAFH-10" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="veIJNiB20tHvsdn6mAFH-10" value="retire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="105" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veIJNiB20tHvsdn6mAFH-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1240" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
