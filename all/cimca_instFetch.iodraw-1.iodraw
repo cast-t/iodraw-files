@@ -125,10 +125,10 @@
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-16" value="refresh using bus data" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="0.0769" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="220" y="320" as="sourcePoint" />
+            <mxPoint x="220" y="280" as="sourcePoint" />
             <mxPoint x="379.9999999999991" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="330" />
+              <mxPoint x="290" y="280" />
               <mxPoint x="290" y="330" />
             </Array>
           </mxGeometry>
