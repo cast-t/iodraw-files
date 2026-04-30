@@ -117,7 +117,7 @@
           <mxGeometry x="300" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-47" value="write_data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="400" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="420" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-49" value="accumulate_data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="50" height="30" as="geometry" />
