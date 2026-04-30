@@ -52,10 +52,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y6sr-2edHUisrBQE15sY-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="190" width="130" height="40" as="geometry" />
+          <mxGeometry x="310" y="190" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y6sr-2edHUisrBQE15sY-14" value="used_register_num_reg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="345" y="195" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
