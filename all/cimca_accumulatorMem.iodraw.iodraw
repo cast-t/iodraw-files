@@ -15,7 +15,7 @@
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.5" y="120" as="sourcePoint" />
+            <mxPoint x="320" y="40" as="sourcePoint" />
             <mxPoint x="319.5" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -79,6 +79,12 @@
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-14" value="Register" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-bKyDMznObd7F7jFmLzn-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="210" as="sourcePoint" />
+            <mxPoint x="380" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
