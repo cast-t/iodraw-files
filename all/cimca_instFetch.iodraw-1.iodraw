@@ -28,9 +28,12 @@
             <mxPoint x="260" y="110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="160" />
-              <mxPoint x="210" y="110" />
+              <mxPoint x="310" y="110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y6sr-2edHUisrBQE15sY-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
