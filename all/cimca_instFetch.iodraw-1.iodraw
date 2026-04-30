@@ -157,7 +157,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-21" value="cmd queue&lt;div&gt;is ready&lt;/div&gt;&lt;div&gt;to equeue&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="390" width="100" height="80" as="geometry" />
+          <mxGeometry x="510" y="500" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nsLT_-gkt0Hj-ninAH_U-22" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="450" y="429.66" as="sourcePoint" />
+            <mxPoint x="520" y="429.66" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
