@@ -212,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-31" value="refresh using bus data" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.483;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nsLT_-gkt0Hj-ninAH_U-0">
-          <mxGeometry x="-0.1" y="10" relative="1" as="geometry">
+          <mxGeometry x="-0.3284" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="560" y="80" as="sourcePoint" />
             <mxPoint x="360" y="70" as="targetPoint" />
