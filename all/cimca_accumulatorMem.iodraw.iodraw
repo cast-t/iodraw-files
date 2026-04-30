@@ -122,7 +122,7 @@
         <mxCell id="-bKyDMznObd7F7jFmLzn-49" value="accumulate_data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-bKyDMznObd7F7jFmLzn-74" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-bKyDMznObd7F7jFmLzn-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.698;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="-bKyDMznObd7F7jFmLzn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385" y="280" as="sourcePoint" />
             <mxPoint x="435" y="230" as="targetPoint" />
