@@ -82,8 +82,8 @@
             <mxPoint x="510" y="419.66" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nsLT_-gkt0Hj-ninAH_U-9" value="no&lt;div&gt;unreceived register&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="390" width="100" height="80" as="geometry" />
+        <mxCell id="nsLT_-gkt0Hj-ninAH_U-9" value="cmd queue&lt;div&gt;is ready&lt;/div&gt;&lt;div&gt;to equeue&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="380" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
