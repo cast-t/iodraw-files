@@ -279,8 +279,8 @@
             <mxPoint x="750" y="330.46" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-bKyDMznObd7F7jFmLzn-110" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="270" width="60" height="30" as="geometry" />
+        <mxCell id="-bKyDMznObd7F7jFmLzn-110" value="Arbiter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="265" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
