@@ -131,6 +131,9 @@
         <mxCell id="-bKyDMznObd7F7jFmLzn-77" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="385" y="280" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="-bKyDMznObd7F7jFmLzn-78" value="Mux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
