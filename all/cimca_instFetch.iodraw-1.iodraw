@@ -60,6 +60,9 @@
         <mxCell id="Y6sr-2edHUisrBQE15sY-14" value="used_register_num_reg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y6sr-2edHUisrBQE15sY-15">
           <mxGeometry x="50" y="5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Y6sr-2edHUisrBQE15sY-17" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
