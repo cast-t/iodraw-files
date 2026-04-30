@@ -231,8 +231,8 @@
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-33" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-0.6" y="-20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="570" y="210" as="sourcePoint" />
-            <mxPoint x="570" y="180" as="targetPoint" />
+            <mxPoint x="450" y="160" as="sourcePoint" />
+            <mxPoint x="450" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
