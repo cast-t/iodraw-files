@@ -192,13 +192,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-25" value="bus data&lt;div&gt;is valid&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="170" width="100" height="80" as="geometry" />
+          <mxGeometry x="510" y="160" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-26" value="no" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-0.2112" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="570" y="389.52000000000004" as="sourcePoint" />
-            <mxPoint x="570" y="340" as="targetPoint" />
+            <mxPoint x="559.7" y="290.00000000000006" as="sourcePoint" />
+            <mxPoint x="559.7" y="240.48000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
