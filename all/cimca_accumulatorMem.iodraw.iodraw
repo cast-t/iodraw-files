@@ -80,10 +80,13 @@
         <mxCell id="-bKyDMznObd7F7jFmLzn-14" value="Register" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-bKyDMznObd7F7jFmLzn-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="-bKyDMznObd7F7jFmLzn-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-bKyDMznObd7F7jFmLzn-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="210" as="sourcePoint" />
-            <mxPoint x="380" y="160" as="targetPoint" />
+            <mxPoint x="320" y="60" as="sourcePoint" />
+            <mxPoint x="370" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="60" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
