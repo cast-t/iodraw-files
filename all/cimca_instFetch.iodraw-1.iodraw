@@ -225,7 +225,12 @@
           <mxGeometry x="-0.6" y="-20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="559.9" y="90" as="sourcePoint" />
-            <mxPoint x="80" y="40" as="targetPoint" />
+            <mxPoint x="40" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="30" />
+              <mxPoint x="50" y="30" />
+              <mxPoint x="50" y="290" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-33" value="refresh&lt;div&gt;using&lt;/div&gt;&lt;div&gt;bus&lt;/div&gt;&lt;div&gt;data&lt;/div&gt;" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nsLT_-gkt0Hj-ninAH_U-14">
