@@ -50,14 +50,11 @@
         <mxCell id="nsLT_-gkt0Hj-ninAH_U-1" value="used register num reg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nsLT_-gkt0Hj-ninAH_U-2">
           <mxGeometry x="5" y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsLT_-gkt0Hj-ninAH_U-3" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="nsLT_-gkt0Hj-ninAH_U-2">
+        <mxCell id="nsLT_-gkt0Hj-ninAH_U-3" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="0.0122" y="19" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset" />
-            <mxPoint x="-50.5" y="10" as="sourcePoint" />
-            <mxPoint x="-0.5" y="40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint y="11" />
-            </Array>
+            <mxPoint x="230" y="260" as="sourcePoint" />
+            <mxPoint x="230" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
