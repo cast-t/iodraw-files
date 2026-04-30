@@ -178,15 +178,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nsLT_-gkt0Hj-ninAH_U-24" value="no" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nsLT_-gkt0Hj-ninAH_U-21">
+        <mxCell id="nsLT_-gkt0Hj-ninAH_U-24" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nsLT_-gkt0Hj-ninAH_U-21">
           <mxGeometry x="-0.8824" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="490" y="740" as="sourcePoint" />
             <mxPoint x="60" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="610" y="740" />
-              <mxPoint x="650" y="740" />
-              <mxPoint x="650" y="760" />
+              <mxPoint x="610" y="760" />
               <mxPoint x="30" y="760" />
               <mxPoint x="30" y="490" />
             </Array>
