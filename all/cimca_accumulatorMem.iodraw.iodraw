@@ -271,7 +271,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-108" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="60" height="20" as="geometry" />
+          <mxGeometry x="720" y="270" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
