@@ -60,11 +60,8 @@
         <mxCell id="Y6sr-2edHUisrBQE15sY-14" value="used_register_num_reg" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Y6sr-2edHUisrBQE15sY-15">
           <mxGeometry x="50" y="5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y6sr-2edHUisrBQE15sY-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y6sr-2edHUisrBQE15sY-17" target="Y6sr-2edHUisrBQE15sY-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Y6sr-2edHUisrBQE15sY-17" value="used_register_num" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y6sr-2edHUisrBQE15sY-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
