@@ -19,10 +19,10 @@
             <mxPoint x="399.5" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-bKyDMznObd7F7jFmLzn-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="-bKyDMznObd7F7jFmLzn-6">
+        <mxCell id="-bKyDMznObd7F7jFmLzn-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="454.8" y="270" as="sourcePoint" />
-            <mxPoint x="454.8" y="320" as="targetPoint" />
+            <mxPoint x="470.13333333333327" y="300.00000000000006" as="sourcePoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-6" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="420" y="280" width="70" height="20" as="geometry" />
+          <mxGeometry x="440" y="280" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-18" value="read_req" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="90" width="60" height="30" as="geometry" />
@@ -108,7 +108,7 @@
           <mxGeometry x="500" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-21" value="Mux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="275" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-22" value="read_data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="60" height="30" as="geometry" />
