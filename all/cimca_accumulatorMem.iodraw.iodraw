@@ -108,7 +108,7 @@
           <mxGeometry x="500" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-21" value="Mux" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="275" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-bKyDMznObd7F7jFmLzn-22" value="read_data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="380" width="60" height="30" as="geometry" />
@@ -122,10 +122,10 @@
         <mxCell id="-bKyDMznObd7F7jFmLzn-49" value="accumulate_data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="500" y="290" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-bKyDMznObd7F7jFmLzn-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.687;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.062;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-bKyDMznObd7F7jFmLzn-13" target="-bKyDMznObd7F7jFmLzn-1">
+        <mxCell id="-bKyDMznObd7F7jFmLzn-74" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.062;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-bKyDMznObd7F7jFmLzn-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="210.65999999999997" as="sourcePoint" />
-            <mxPoint x="421.68000000000006" y="320" as="targetPoint" />
+            <mxPoint x="430" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
