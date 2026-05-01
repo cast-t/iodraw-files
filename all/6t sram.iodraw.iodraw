@@ -1016,8 +1016,11 @@
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-245" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Result&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1695" y="540" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-246" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2115" y="528" width="50" height="30" as="geometry" />
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-246" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="528" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-247" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2155" y="528" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
