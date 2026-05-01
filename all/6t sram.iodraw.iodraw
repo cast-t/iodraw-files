@@ -650,7 +650,7 @@
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-170" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;VDD&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="345" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-171" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-171" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="mxNSAZkkmdWkvmU-Z8-k-172">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="800" y="670" as="sourcePoint" />
             <mxPoint x="800" y="485" as="targetPoint" />
@@ -669,6 +669,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="811" y="711" as="sourcePoint" />
             <mxPoint x="789" y="689" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-177" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="720" as="sourcePoint" />
+            <mxPoint x="810" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
