@@ -661,8 +661,14 @@
         </mxCell>
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="660" as="sourcePoint" />
-            <mxPoint x="840" y="610" as="targetPoint" />
+            <mxPoint x="840" y="700" as="sourcePoint" />
+            <mxPoint x="870" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-174" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="710" as="sourcePoint" />
+            <mxPoint x="880" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
