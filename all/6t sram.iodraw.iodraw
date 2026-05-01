@@ -1373,7 +1373,7 @@
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-408" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Subarray&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-406">
           <mxGeometry x="-10" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-409" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-409" value="Adder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1860" y="1160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
