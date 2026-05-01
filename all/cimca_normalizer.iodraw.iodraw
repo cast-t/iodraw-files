@@ -38,7 +38,7 @@
           <mxGeometry x="720" y="730" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-846" value="Compute&lt;div&gt;Unit&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="790" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="790" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
