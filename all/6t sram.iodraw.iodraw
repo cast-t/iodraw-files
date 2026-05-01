@@ -657,7 +657,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-172" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="780" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="780" y="680" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="660" as="sourcePoint" />
+            <mxPoint x="840" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
