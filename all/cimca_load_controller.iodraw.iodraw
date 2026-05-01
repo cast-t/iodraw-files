@@ -44,7 +44,7 @@
         <mxCell id="fqzhfM_NTTasA5llV62G-1" value="refresh&lt;div&gt;configuration&lt;/div&gt;&lt;div&gt;register&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="315" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fqzhfM_NTTasA5llV62G-2" value="is config command" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fqzhfM_NTTasA5llV62G-2" value="is dma ready" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="410" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
