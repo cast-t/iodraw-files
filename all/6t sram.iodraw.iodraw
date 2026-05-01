@@ -659,7 +659,7 @@
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-172" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="780" y="680" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-175" value="" style="group;rotation=-45;" vertex="1" connectable="0" parent="1">
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-175" value="" style="group;rotation=-45;strokeWidth=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="785" y="685" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="mxNSAZkkmdWkvmU-Z8-k-175">
