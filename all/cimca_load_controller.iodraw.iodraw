@@ -161,6 +161,16 @@
         <mxCell id="J40Zzmk5bteoWpgWPvO5-62" value="Addr stride" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="155" y="204" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J40Zzmk5bteoWpgWPvO5-63" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="375" as="sourcePoint" />
+            <mxPoint x="760" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="415" />
+              <mxPoint x="690" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
