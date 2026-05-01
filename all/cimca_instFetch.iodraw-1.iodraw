@@ -20,16 +20,16 @@
           <mxGeometry y="10" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="swt8tBgqV8a2CvPVy2pF-7" value="entries_ex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="swt8tBgqV8a2CvPVy2pF-5">
-          <mxGeometry x="40" y="5" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="15" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="swt8tBgqV8a2CvPVy2pF-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="400" y="380" width="120" height="30" as="geometry" />
+          <mxGeometry x="400" y="380" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="swt8tBgqV8a2CvPVy2pF-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="swt8tBgqV8a2CvPVy2pF-8">
-          <mxGeometry width="120" height="30" as="geometry" />
+          <mxGeometry width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="swt8tBgqV8a2CvPVy2pF-10" value="entries_st" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="swt8tBgqV8a2CvPVy2pF-8">
-          <mxGeometry x="30" width="60" height="30" as="geometry" />
+          <mxGeometry x="35" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="swt8tBgqV8a2CvPVy2pF-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
