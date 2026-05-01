@@ -88,11 +88,11 @@
             <mxPoint x="520" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fqzhfM_NTTasA5llV62G-11" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fqzhfM_NTTasA5llV62G-11" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.462;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="fqzhfM_NTTasA5llV62G-6">
           <mxGeometry x="-0.5344" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="280" y="459.74" as="sourcePoint" />
-            <mxPoint x="330" y="460" as="targetPoint" />
+            <mxPoint x="550" y="490" as="sourcePoint" />
+            <mxPoint x="600" y="490.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
