@@ -152,6 +152,9 @@
         <mxCell id="J40Zzmk5bteoWpgWPvO5-59" value="Addr dim" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="233.5" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="J40Zzmk5bteoWpgWPvO5-60" value="Addr dim+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
