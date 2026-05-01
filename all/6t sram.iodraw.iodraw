@@ -1355,24 +1355,6 @@
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-401" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Subarray&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-402">
           <mxGeometry x="-10" y="105" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-403" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1940" y="880" width="40" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-404" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-403">
-          <mxGeometry width="40" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-405" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Subarray&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-403">
-          <mxGeometry x="-10" y="105" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-406" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2080" y="880" width="40" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-407" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-406">
-          <mxGeometry width="40" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-408" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Subarray&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-406">
-          <mxGeometry x="-10" y="105" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-419" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1855" y="1145" width="135" height="70" as="geometry" />
         </mxCell>
