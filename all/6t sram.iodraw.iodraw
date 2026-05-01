@@ -825,7 +825,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-210" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1330" y="370" width="210" height="100" as="geometry" />
+          <mxGeometry x="1310" y="490" width="210" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-211" value="CIM Cell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-210">
           <mxGeometry width="80" height="40" as="geometry" />
