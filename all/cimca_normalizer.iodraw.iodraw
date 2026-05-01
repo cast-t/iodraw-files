@@ -11,7 +11,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-838" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="600" y="640" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-839" value="Queue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="645" width="60" height="30" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="670" y="730" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-844" value="Arbiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="750" width="40" height="30" as="geometry" />
+          <mxGeometry x="720" y="730" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
