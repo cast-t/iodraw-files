@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-888" value="" style="group;rotation=-90;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="605" y="765" width="30" height="120.19000000000005" as="geometry" />
+          <mxGeometry x="605" y="765" width="45" height="120.19000000000005" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-885" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="MLGqAiPHiI-oEYDNXH0j-888">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -57,6 +57,9 @@
             <mxPoint x="75" y="75" as="sourcePoint" />
             <mxPoint x="75" y="45" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-895" value="W" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-888">
+          <mxGeometry x="-15" y="35" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-889" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
