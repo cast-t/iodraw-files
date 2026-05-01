@@ -244,6 +244,9 @@
         <mxCell id="swt8tBgqV8a2CvPVy2pF-43" value="state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="800" y="345" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="swt8tBgqV8a2CvPVy2pF-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
