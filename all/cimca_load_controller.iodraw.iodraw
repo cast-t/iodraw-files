@@ -180,7 +180,7 @@
         <mxCell id="xTprHxX53O1FTlVrAruL-44" value="req" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="275" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xTprHxX53O1FTlVrAruL-45" value="req" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="xTprHxX53O1FTlVrAruL-45" value="resp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="305" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
