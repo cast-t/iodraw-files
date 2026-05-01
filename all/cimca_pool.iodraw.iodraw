@@ -173,8 +173,8 @@
             <mxPoint x="1110" y="749.92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-922" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="970" y="700" width="60" height="30" as="geometry" />
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-922" value="max or average" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
