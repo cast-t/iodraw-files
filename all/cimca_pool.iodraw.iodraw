@@ -117,16 +117,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-901" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="640" width="120" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-902" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="650" width="120" height="10" as="geometry" />
+          <mxGeometry x="840" y="640" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-903" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="660" width="120" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-904" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="670" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-905" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="740" width="120" height="10" as="geometry" />
