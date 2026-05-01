@@ -153,7 +153,7 @@
           <mxGeometry x="800" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J40Zzmk5bteoWpgWPvO5-60" value="Addr dim+1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="795" y="250" width="80" height="30" as="geometry" />
+          <mxGeometry x="800" y="250" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
