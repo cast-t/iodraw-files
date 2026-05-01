@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J40Zzmk5bteoWpgWPvO5-1" value="dma_busWidth = 128 bits = 16 bytes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="270" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
