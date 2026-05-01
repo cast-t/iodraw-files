@@ -1385,11 +1385,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-412" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1960" y="1160" width="20" height="20" as="geometry" />
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-414" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1940" y="1155" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-413" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="1150" width="60" height="30" as="geometry" />
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-412" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-414">
+          <mxGeometry x="20" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mxNSAZkkmdWkvmU-Z8-k-413" value="&amp;lt;&amp;lt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="mxNSAZkkmdWkvmU-Z8-k-414">
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
