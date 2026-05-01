@@ -13,8 +13,8 @@
         <mxCell id="J40Zzmk5bteoWpgWPvO5-13" value="x[0][dim] - x[0][2 * dim-1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J40Zzmk5bteoWpgWPvO5-14" value="x[0][dim] - x[0][2 * dim-1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="250" width="140" height="30" as="geometry" />
+        <mxCell id="J40Zzmk5bteoWpgWPvO5-14" value="x[0][0] - x[0][dim-1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
