@@ -146,7 +146,7 @@
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-75" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="565" as="sourcePoint" />
-            <mxPoint x="380" y="425" as="targetPoint" />
+            <mxPoint x="370" y="425" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="565" />
               <mxPoint x="360" y="425" />
@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mxNSAZkkmdWkvmU-Z8-k-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;direction=south;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="370" y="460" width="10" height="10" as="geometry" />
+          <mxGeometry x="370" y="420" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
