@@ -210,6 +210,9 @@
         <mxCell id="xTprHxX53O1FTlVrAruL-53" value="io.cmd" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="150" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xTprHxX53O1FTlVrAruL-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
