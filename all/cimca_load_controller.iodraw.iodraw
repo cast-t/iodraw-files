@@ -7,20 +7,14 @@
         <mxCell id="J40Zzmk5bteoWpgWPvO5-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="J40Zzmk5bteoWpgWPvO5-8" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="420" y="235" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J40Zzmk5bteoWpgWPvO5-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="J40Zzmk5bteoWpgWPvO5-8">
-          <mxGeometry y="5" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="J40Zzmk5bteoWpgWPvO5-10" value="x[0][dim] - x[0][2 * dim-1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="J40Zzmk5bteoWpgWPvO5-8">
-          <mxGeometry x="7.5" width="105" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="J40Zzmk5bteoWpgWPvO5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="180" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J40Zzmk5bteoWpgWPvO5-13" value="x[0][dim] - x[0][2 * dim-1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="170" width="140" height="30" as="geometry" />
+          <mxGeometry x="240" y="240" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J40Zzmk5bteoWpgWPvO5-14" value="x[0][dim] - x[0][2 * dim-1]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
