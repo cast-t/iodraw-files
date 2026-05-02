@@ -191,7 +191,7 @@
           <mxGeometry x="1010" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-970" value="1MB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="1070" y="465" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-971" value="Reserve for other peripheral" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="370" width="120" height="60" as="geometry" />
