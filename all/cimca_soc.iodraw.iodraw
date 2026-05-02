@@ -199,6 +199,9 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-972" value="CIMCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="880" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-973" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
