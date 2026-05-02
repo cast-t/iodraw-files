@@ -115,6 +115,9 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-950" value="Peripherals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="400" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-951" value="0x3ffffffff" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
