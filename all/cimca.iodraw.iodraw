@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1034" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="740" width="460" height="120" as="geometry" />
+          <mxGeometry x="970" y="760" width="460" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1033" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1250" y="860" width="180" height="230" as="geometry" />
@@ -21,12 +21,12 @@
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-982" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1199.67" y="750" as="sourcePoint" />
-            <mxPoint x="1199.67" y="680" as="targetPoint" />
+            <mxPoint x="1199.6000000000001" y="770" as="sourcePoint" />
+            <mxPoint x="1199.6000000000001" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-983" value="instruction" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="700" width="60" height="30" as="geometry" />
+          <mxGeometry x="1210" y="720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-984" value="Reservation Station" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1050" y="810" width="290" height="40" as="geometry" />
