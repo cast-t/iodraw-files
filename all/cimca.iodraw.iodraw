@@ -52,12 +52,6 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1001" value="AccumulatorMem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1002" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="860" width="50" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1003" value="Writer&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1295" y="915" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1004" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="1020" as="sourcePoint" />
@@ -71,6 +65,15 @@
           <mxGeometry x="5" width="50" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-999" value="Reader&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1005">
+          <mxGeometry y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1006" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1310" y="860" width="60" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1002" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1006">
+          <mxGeometry x="5" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1003" value="Writer&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1006">
           <mxGeometry y="55" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
