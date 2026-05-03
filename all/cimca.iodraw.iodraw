@@ -38,7 +38,7 @@
           <mxGeometry x="-96.25" y="55" width="302.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-997" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1270" y="870" width="60" height="140" as="geometry" />
+          <mxGeometry x="1265" y="870" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-991" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-997">
           <mxGeometry width="60" height="140" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="980" y="1030" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1001" value="Accumulator&lt;div&gt;Mem&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="1030" width="70" height="60" as="geometry" />
+          <mxGeometry x="1265" y="1030" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1005" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="985" y="870" width="60" height="60" as="geometry" />
