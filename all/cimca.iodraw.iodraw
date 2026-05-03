@@ -47,7 +47,7 @@
           <mxGeometry x="-30" y="55" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1000" value="Scratchpad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="1030" width="60" height="60" as="geometry" />
+          <mxGeometry x="1260" y="1100" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1001" value="AccumulatorMem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1260" y="1030" width="100" height="60" as="geometry" />
