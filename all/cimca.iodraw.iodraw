@@ -76,6 +76,12 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1003" value="Writer&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1006">
           <mxGeometry y="55" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1007" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1290" y="1030" as="sourcePoint" />
+            <mxPoint x="1310" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
