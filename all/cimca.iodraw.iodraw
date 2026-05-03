@@ -80,7 +80,7 @@
           <mxGeometry x="16" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1011" value="Zero&lt;div&gt;Writer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1009">
-          <mxGeometry y="23.57142857142857" width="60" height="12.85714285714286" as="geometry" />
+          <mxGeometry x="11" y="23.57142857142857" width="60" height="12.85714285714286" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1014" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MLGqAiPHiI-oEYDNXH0j-1009" source="MLGqAiPHiI-oEYDNXH0j-1011" target="MLGqAiPHiI-oEYDNXH0j-1011">
           <mxGeometry relative="1" as="geometry" />
@@ -117,8 +117,8 @@
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1022" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1079.84" y="1010" as="sourcePoint" />
-            <mxPoint x="1079.84" y="1030" as="targetPoint" />
+            <mxPoint x="1014.8399999999999" y="1010" as="sourcePoint" />
+            <mxPoint x="1014.8399999999999" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
