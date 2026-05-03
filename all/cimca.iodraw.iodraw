@@ -50,7 +50,7 @@
           <mxGeometry x="980" y="1030" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1001" value="Accumulator&lt;div&gt;Mem&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="1030" width="70" height="60" as="geometry" />
+          <mxGeometry x="1265" y="1030" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1005" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="985" y="870" width="60" height="60" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1008" value="CIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="1040" width="50" height="50" as="geometry" />
+          <mxGeometry x="1190" y="1030" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1009" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="974" y="950" width="60" height="60" as="geometry" />
@@ -86,10 +86,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1013" value="Normalizer&lt;div&gt;and&lt;/div&gt;&lt;div&gt;Activation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1345" y="1030" width="65" height="60" as="geometry" />
+          <mxGeometry x="1345" y="1030" width="65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1015" value="Im2Col" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1030" width="40" height="60" as="geometry" />
+          <mxGeometry x="1130" y="1030" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
