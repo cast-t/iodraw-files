@@ -59,13 +59,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1005" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1040" y="870" width="60" height="140" as="geometry" />
+          <mxGeometry x="1040" y="870" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-998" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1005">
-          <mxGeometry x="5" width="50" height="140" as="geometry" />
+          <mxGeometry x="5" width="50" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-999" value="Reader&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1005">
-          <mxGeometry y="55" width="60" height="30" as="geometry" />
+          <mxGeometry y="39.285714285714285" width="60" height="21.42857142857143" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1006" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1300" y="870" width="60" height="140" as="geometry" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1008" value="CIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="1030" width="70" height="60" as="geometry" />
+          <mxGeometry x="1167.5" y="1030" width="65" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
