@@ -59,13 +59,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1005" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1040" y="870" width="60" height="80" as="geometry" />
+          <mxGeometry x="1040" y="870" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-998" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1005">
-          <mxGeometry x="5" width="50" height="80" as="geometry" />
+          <mxGeometry x="5" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-999" value="Reader&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1005">
-          <mxGeometry y="31.42857142857143" width="60" height="17.142857142857146" as="geometry" />
+          <mxGeometry y="27.5" width="60" height="15.000000000000004" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1006" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1300" y="870" width="60" height="140" as="geometry" />
@@ -84,6 +84,15 @@
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1008" value="CIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1167.5" y="1030" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1009" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1040" y="940" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1010" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1009">
+          <mxGeometry x="5" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1011" value="Reader&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-1009">
+          <mxGeometry y="27.5" width="60" height="15.000000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
