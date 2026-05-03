@@ -19,18 +19,6 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-984" value="Reservation Station" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="810" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-991" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="860" width="40" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-992" value="Store Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="915" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-993" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="860" width="40" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="MLGqAiPHiI-oEYDNXH0j-994" value="Execute Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="915" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-995" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1080" y="860" width="40" height="140" as="geometry" />
         </mxCell>
@@ -38,6 +26,24 @@
           <mxGeometry width="40" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-990" value="Load Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-995">
+          <mxGeometry x="-30" y="55" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-996" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1180" y="860" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-993" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-996">
+          <mxGeometry width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-994" value="Execute Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-996">
+          <mxGeometry x="-35" y="55" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-997" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1240" y="860" width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-991" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-997">
+          <mxGeometry width="40" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-992" value="Store Controller" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-997">
           <mxGeometry x="-30" y="55" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
