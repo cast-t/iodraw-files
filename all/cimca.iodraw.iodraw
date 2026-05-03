@@ -55,6 +55,9 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1000" value="Scratchpad" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MLGqAiPHiI-oEYDNXH0j-1001" value="AccumulatorMem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
