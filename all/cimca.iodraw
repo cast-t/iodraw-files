@@ -74,13 +74,13 @@
           <mxGeometry y="23.57142857142857" width="60" height="12.85714285714286" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1006" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1355" y="870" width="60" height="140" as="geometry" />
+          <mxGeometry x="1355" y="870" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1002" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="MLGqAiPHiI-oEYDNXH0j-1006" vertex="1">
-          <mxGeometry x="5" width="50" height="140" as="geometry" />
+          <mxGeometry x="5" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1003" value="Writer&lt;div&gt;DMA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MLGqAiPHiI-oEYDNXH0j-1006" vertex="1">
-          <mxGeometry y="55" width="60" height="30" as="geometry" />
+          <mxGeometry y="23.571428571428573" width="60" height="12.857142857142858" as="geometry" />
         </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1008" value="CIM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1190" y="1030" width="50" height="50" as="geometry" />
