@@ -188,7 +188,7 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1039" value="Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1205" y="1140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rK7odOc5xVEdUp_16Czx-4" value="Pool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rK7odOc5xVEdUp_16Czx-4" value="Pooling" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1360" y="945" width="50" height="45" as="geometry" />
         </mxCell>
       </root>
