@@ -58,9 +58,6 @@
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-992" value="Store&lt;div&gt;Controller&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="MLGqAiPHiI-oEYDNXH0j-997" vertex="1">
           <mxGeometry x="-56.25" y="55" width="187.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rK7odOc5xVEdUp_16Czx-7" value="Zero&lt;div&gt;Writer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="MLGqAiPHiI-oEYDNXH0j-997">
-          <mxGeometry x="55" y="80" width="40" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MLGqAiPHiI-oEYDNXH0j-1000" value="Scratchpad" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="980" y="1030" width="130" height="50" as="geometry" />
         </mxCell>
@@ -197,7 +194,7 @@
         <mxCell id="rK7odOc5xVEdUp_16Czx-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1384.71" y="1030" as="sourcePoint" />
-            <mxPoint x="1384.71" y="990" as="targetPoint" />
+            <mxPoint x="1385" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
