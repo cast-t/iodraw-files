@@ -1132,10 +1132,10 @@
         <mxCell id="rHueicj0S0FIftiX_Bxv-252" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;卷积层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="615" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rHueicj0S0FIftiX_Bxv-253" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;逐平面分解&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rHueicj0S0FIftiX_Bxv-253" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;逐平面分块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="805" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rHueicj0S0FIftiX_Bxv-255" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;逐平面分解&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rHueicj0S0FIftiX_Bxv-255" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;块1：加速器能一次性处理的块&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;块1：存算一体核心能一次性处理的块&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="1000" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
