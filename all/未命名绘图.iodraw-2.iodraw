@@ -104,10 +104,10 @@
           <mxGeometry x="190" y="200" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rHueicj0S0FIftiX_Bxv-13" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rHueicj0S0FIftiX_Bxv-12">
-          <mxGeometry x="-0.2433" y="-10" relative="1" as="geometry">
+          <mxGeometry x="0.0769" y="10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="120" y="270" as="sourcePoint" />
-            <mxPoint x="170" y="270" as="targetPoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="225" />
               <mxPoint x="180" y="270" />
