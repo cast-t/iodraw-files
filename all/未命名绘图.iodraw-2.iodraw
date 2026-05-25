@@ -7,6 +7,12 @@
         <mxCell id="s9WtzPxnKUJij0l9TRGV-1" value="指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="250" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s9WtzPxnKUJij0l9TRGV-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="310" as="sourcePoint" />
+            <mxPoint x="460" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
