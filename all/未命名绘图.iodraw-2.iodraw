@@ -144,7 +144,7 @@
         <mxCell id="rHueicj0S0FIftiX_Bxv-21" value="配置对应寄存器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="280" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rHueicj0S0FIftiX_Bxv-22" value="配置对应寄存器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rHueicj0S0FIftiX_Bxv-22" value="发送DMA读请求，从外部存储读入数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="280" width="40" height="50" as="geometry" />
         </mxCell>
       </root>
