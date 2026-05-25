@@ -99,9 +99,10 @@
           <mxGeometry x="0.0769" y="-10" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="270" y="230" as="sourcePoint" />
-            <mxPoint x="250" y="340" as="targetPoint" />
+            <mxPoint x="250" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="260" y="225" />
+              <mxPoint x="250" y="280" />
+              <mxPoint x="250" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -136,6 +137,9 @@
         </mxCell>
         <mxCell id="rHueicj0S0FIftiX_Bxv-25" value="配置对应寄存器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="280" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-26" value="配置&lt;div style=&quot;font-size: 10px;&quot;&gt;指令&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=10;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="210" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
