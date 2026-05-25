@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s9WtzPxnKUJij0l9TRGV-5" value="保留站" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="395" y="400" width="145" height="40" as="geometry" />
+          <mxGeometry x="345" y="400" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
