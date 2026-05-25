@@ -173,7 +173,7 @@
         <mxCell id="rHueicj0S0FIftiX_Bxv-34" value="存算一体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="360" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rHueicj0S0FIftiX_Bxv-37" value="C语言测试代码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rHueicj0S0FIftiX_Bxv-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="280" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rHueicj0S0FIftiX_Bxv-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -184,6 +184,9 @@
         </mxCell>
         <mxCell id="rHueicj0S0FIftiX_Bxv-39" value="RISC-V交叉编译工具链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-40" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="490" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
