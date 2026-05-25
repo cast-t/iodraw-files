@@ -732,6 +732,33 @@
             <mxPoint x="120" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-172" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="960" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-173" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="rHueicj0S0FIftiX_Bxv-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="80" as="sourcePoint" />
+            <mxPoint x="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-174" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="rHueicj0S0FIftiX_Bxv-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="80" as="sourcePoint" />
+            <mxPoint x="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-175" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="rHueicj0S0FIftiX_Bxv-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" as="sourcePoint" />
+            <mxPoint x="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-176" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="rHueicj0S0FIftiX_Bxv-172">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="80" as="sourcePoint" />
+            <mxPoint x="120" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
