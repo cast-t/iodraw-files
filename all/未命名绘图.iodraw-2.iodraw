@@ -212,6 +212,12 @@
         <mxCell id="rHueicj0S0FIftiX_Bxv-47" value="加速器Verilog" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="205" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="780" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-49" value="PicoRV32, UART, AXI Utils" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="265" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
