@@ -185,8 +185,8 @@
         <mxCell id="rHueicj0S0FIftiX_Bxv-39" value="RISC-V交叉编译工具链" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="540" y="250" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rHueicj0S0FIftiX_Bxv-40" value="C语言测试代码，链接脚本，启动代码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="489" y="290" width="100" height="30" as="geometry" />
+        <mxCell id="rHueicj0S0FIftiX_Bxv-40" value="C语言测试代码，&lt;div&gt;链接脚本，&lt;div&gt;启动代码&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="489" y="290" width="111" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
