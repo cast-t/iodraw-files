@@ -213,10 +213,10 @@
           <mxGeometry x="790" y="205" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rHueicj0S0FIftiX_Bxv-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="780" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="760" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rHueicj0S0FIftiX_Bxv-49" value="PicoRV32, UART, AXI Utils" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="795" y="285" width="90" height="30" as="geometry" />
+          <mxGeometry x="775" y="285" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rHueicj0S0FIftiX_Bxv-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="930" y="200" width="120" height="40" as="geometry" />
@@ -228,6 +228,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="950" y="320" as="sourcePoint" />
             <mxPoint x="1000" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="230" as="sourcePoint" />
+            <mxPoint x="740" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
