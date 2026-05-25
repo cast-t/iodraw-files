@@ -88,7 +88,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHueicj0S0FIftiX_Bxv-9" value="加载&lt;div&gt;指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="rHueicj0S0FIftiX_Bxv-9" value="写回&lt;br&gt;&lt;div&gt;指令&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="160" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
