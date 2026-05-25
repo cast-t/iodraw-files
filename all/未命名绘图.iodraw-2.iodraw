@@ -134,6 +134,13 @@
             <mxPoint x="310" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="rHueicj0S0FIftiX_Bxv-20" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rHueicj0S0FIftiX_Bxv-17">
+          <mxGeometry x="-0.2433" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="380" y="225" as="sourcePoint" />
+            <mxPoint x="360" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
